@@ -1,0 +1,11 @@
+.image-view-wrapper:border {
+    -fx-border-color: red;
+    -fx-border-style: solid;
+    -fx-border-width: 3;
+}
+
+.pw-view-wrapper:border {
+    -fx-border-color: blue;
+    -fx-border-style: solid;
+    -fx-border-width: 5;
+}
